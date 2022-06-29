@@ -144,3 +144,16 @@ a{
     background-color: #f9faf8;
     color: #1f2937;
 }
+footer{
+    background-color: #1f2937;
+    height: 100px;
+}
+footer .wrapper{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer p{
+    color:#e5e7eb;
+}
